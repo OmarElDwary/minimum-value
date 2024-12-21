@@ -8,5 +8,5 @@
 
 
 # Author:
-**Omar Shaban Ahmed Abdelaziz**
-GitHub username: **OmarElDwary**
+- **Omar Shaban Ahmed Abdelaziz**
+- GitHub username: **OmarElDwary**
